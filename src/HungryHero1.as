@@ -48,6 +48,8 @@ package
 		 */
 		protected function onAddedToStage(event:Event):void
 		{
+			// github deneme
+			
 			this.removeEventListener(Event.ADDED_TO_STAGE, onAddedToStage);
 			
 			// Initialize Starling object.
